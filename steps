@@ -1,0 +1,19 @@
+
+<---Install typescript-->
+  
+1.Go to folder where you want to install typscript 
+2.In terminal(vs code)
+
+Npm install -g typescript  
+Tsc --version  (to check the versionn)
+
+3.Add fie with .ts extension
+Add content-
+
+Let message : string  = "Hello World";
+Console.log(message);
+
+4.terminal
+Tsc filename.tcs  
+Node filename.js  prints the result
+
